@@ -1,7 +1,7 @@
-Testando alteração
-Olá mundo! Muito legal
-C
-outra mudança
+#Git
+Curso de git
+Teste de commit
+Teste de push
 
 
 
@@ -10,5 +10,9 @@ outra mudança
 
 
 
-#Git course
-curso de git
+
+
+
+
+
+
